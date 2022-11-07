@@ -29,6 +29,8 @@ int main (int argc, char **argv) {
     return 0;
 }
 
+//grafkom mantap
+
 //fldzhcntik skliiii
 //annisatarimana
 
